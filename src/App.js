@@ -9,8 +9,6 @@ class App extends Component {
     return (
       <div className="App">
         <Counter />
-        <Counter by={1} />
-        <Counter by={1} />
       </div>
     )
   }
