@@ -11,10 +11,6 @@ import WelcomeComponent from "./WelcomeComponent";
 
 class TodoApp extends Component {
 
-    // const isUserLoggedIn = AuthenticationService.isUserLoggedIn()
-    // console.log(isUserLoggedIn)
-
-
     render() {
         return (
             <div className="TodoApp">
